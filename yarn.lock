@@ -5,10 +5,11 @@
 "@apideck/better-ajv-errors@^0.3.1":
   "integrity" "sha512-JdEazx7qiVqTBzzBl5rolRwl5cmhihjfIcpqRzIZjtT6b18liVmDn/VlWpqW4C/qP2hrFFMLRV1wlex8ZVBPTg=="
   "resolved" "https://registry.npmjs.org/@apideck/better-ajv-errors/-/better-ajv-errors-0.3.2.tgz"
+  "version" "0.3.2"
   dependencies:
-    json-schema "^0.4.0"
-    jsonpointer "^5.0.0"
-    leven "^3.1.0"
+    "json-schema" "^0.4.0"
+    "jsonpointer" "^5.0.0"
+    "leven" "^3.1.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.16.0", "@babel/code-frame@^7.16.7", "@babel/code-frame@^7.8.3":
   version "7.16.7"
