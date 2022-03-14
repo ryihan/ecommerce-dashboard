@@ -59,6 +59,7 @@ const sidebarNav = [
         section: 'settings',
         icon: <i className='bx bx-cog'></i>,
         text: 'Settings'
+    },
     {
         link: '/settings',
         section: 'settings',
